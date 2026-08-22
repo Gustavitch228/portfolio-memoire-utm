@@ -116,9 +116,9 @@ L'infrastructure a été modélisée et simulée dans un environnement virtuel a
 
 *Administrateur Systèmes, Réseaux & Sécurité*
 
-* 🌐 LinkedIn : [Votre Profil LinkedIn](https://www.google.com/search?q=%23)
-* 🐙 GitHub : [Votre Profil GitHub](https://www.google.com/search?q=%23)
-* ✉️ Email : [Votre Email](https://www.google.com/search?q=%23)
+- 💼 **LinkedIn** : [linkedin.com/in/gustave-agbassah](https://www.linkedin.com/in/gustave-agbassah)
+- 📜 **Profil Credly** : [credly.com/users/gustave-agbassah](https://www.credly.com/users/gustave-agbassah)
+- ✉️ **Email** : gustavoagbassah@gmail.com
 
 ```
 
