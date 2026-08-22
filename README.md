@@ -104,7 +104,7 @@ L'infrastructure a été modélisée et simulée dans un environnement virtuel a
 
 ## 📄 Livrables & Téléchargement
 
-* 📘 **Mémoire Complet (PDF)** : [`MEMOIRE_AGB_FIN.pdf`](https://www.google.com/search?q=./MEMOIRE_AGB_FIN.pdf)
+* 📘 **Mémoire Complet (PDF)** : [Télécharger le Mémoire PDF](./MEMOIRE_AGB_FIN.pdf)
 * 📑 **Titre Officiel** : *Mise en place d'une plate-forme de gestion unifiée d'un système d'information*
 * 🎓 **Établissement** : École Supérieure de Technologie et de Management (ESTM Dakar)
 
